@@ -1,1 +1,2 @@
 Soy Manuel Castiblanco y tengo 26 anos
+Hoy nos enfocaremos en aprender git
